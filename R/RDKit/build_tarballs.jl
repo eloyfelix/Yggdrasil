@@ -59,7 +59,7 @@ products = [
 
 dependencies = [
     Dependency("FreeType2_jll"),
-    Dependency("boost_jll"; compat="=1.76.0"),
+    Dependency("boost_jll"; compat="=1.79.0"),
     BuildDependency("Eigen_jll"),
     Dependency("Zlib_jll"),
 ]
